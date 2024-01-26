@@ -463,6 +463,10 @@ questions_df
 
 
 
+```python
+questions_df[questions_df['qname']=='MiscTech']
+
+```
 
 
 
@@ -1847,7 +1851,7 @@ plt.show();
 
 
     
-![png](Output_images/output_58_0.png)
+![png](Output_images/output_57_0.png)
     
 
 
@@ -1890,7 +1894,7 @@ plt.show();
 
 
     
-![png](Output_images/output_60_0.png)
+![png](Output_images/output_59_0.png)
     
 
 
@@ -1934,7 +1938,7 @@ plt.show();
 
 
     
-![png](Output_images/output_62_0.png)
+![png](Output_images/output_61_0.png)
     
 
 
@@ -1978,7 +1982,7 @@ plt.show();
 
 
     
-![png](Output_images/output_64_0.png)
+![png](Output_images/output_63_0.png)
     
 
 
@@ -2022,7 +2026,7 @@ plt.show();
 
 
     
-![png](Output_images/output_66_0.png)
+![png](Output_images/output_65_0.png)
     
 
 
@@ -2069,7 +2073,7 @@ plt.show();
 
 
     
-![png](Output_images/output_68_0.png)
+![png](Output_images/output_67_0.png)
     
 
 
@@ -2114,7 +2118,7 @@ plt.show();
 
 
     
-![png](Output_images/output_70_0.png)
+![png](Output_images/output_69_0.png)
     
 
 
@@ -2161,7 +2165,7 @@ plt.show();
 
 
     
-![png](Output_images/output_72_0.png)
+![png](Output_images/output_71_0.png)
     
 
 
@@ -2219,7 +2223,7 @@ plt.show()
 
 
     
-![png](Output_images/output_75_0.png)
+![png](Output_images/output_74_0.png)
     
 
 
@@ -2246,4 +2250,17 @@ fig.show()
 
 
 
+```python
 
+```
+
+
+```python
+
+    
+```
+
+
+```python
+
+```
