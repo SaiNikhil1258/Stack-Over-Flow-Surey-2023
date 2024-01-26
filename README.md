@@ -463,10 +463,6 @@ questions_df
 
 
 
-```python
-questions_df[questions_df['qname']=='MiscTech']
-
-```
 
 
 
