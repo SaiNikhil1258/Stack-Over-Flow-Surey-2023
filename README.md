@@ -850,6 +850,9 @@ plt.show()
 # Using Folium and the countries.geo.json plotting the countries
 ### plotting the submissions per country by the color coded interactive plot of the world
 
+## This is a interactive geo plot of the world.
+### The thing is iam not able to show this in the readme file some how will try to do that.
+#### If you try you will be able to see the geoplot the geo map plot is not shown in the readme.
 
 ```python
 country_counts.info()
@@ -1964,20 +1967,3 @@ fig.show()
 
 ```
 
-
-
-
-```python
-
-```
-
-
-```python
-
-    
-```
-
-
-```python
-
-```
